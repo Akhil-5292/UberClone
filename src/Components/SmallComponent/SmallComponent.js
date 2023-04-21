@@ -19,7 +19,7 @@ export default function (){
     }
     console.log(location);
     return (
-        <div  style={{backgroundImage:`url(${getimageurl()})` ,backgroundSize:'cover', backgroundRepeat:'no-repeat', padding:'80px' }}>
+        <div  style={{backgroundImage:`url(${getimageurl()})` ,backgroundSize:'cover', backgroundRepeat:'no-repeat', padding:'120px' }}>
             
                 <Navbar2/>
     

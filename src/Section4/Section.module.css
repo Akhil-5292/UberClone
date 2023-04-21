@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    padding: 80px;
+}
+.img1{
+    height: 305.06px;
+    width: 350.6px;
+}
+
+.image{
+    display: flex;
+    gap: 1.5rem;
+    /* border: 1px solid; */
+}
+
+a{
+    color: #000000;
+    text-decoration: underline #777777;
+}
+
+.heading{
+    display: flex;
+}
