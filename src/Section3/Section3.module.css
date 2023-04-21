@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    border: 1px solid;
+   height: 640px;
+   padding: 80px;
+
+}
+
+
+
+.img1{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+   
+}
+.img2{
+ display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.uberauto{
+    height: 198px;
+    width: 334.8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.uberauto{
+    height: 198px;
+    width: 334.8px;
+}
+
+.uberrental{
+    height: 198px;
+    width: 334.8px;
+}
+
+.uberintercity{
+    height: 198px;
+    width: 334.8px;
+}
+
+
+
+  .image{
+    height: 150px;
+    width: 150px;
+  }
+
+  .service{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: column;
+    /* border: 1px solid; */
+    gap: 5rem;
+  }

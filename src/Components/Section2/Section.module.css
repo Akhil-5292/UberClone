@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    background-image: url('https://www.uber-assets.com/image/upload/v1613106985/assets/0e/47aa71-35cb-459a-a975-78c61ea300e2/original/HP-U4B-NYC-bkg.png');
+    height: 300px;
+    padding: 80px;
+    background-size: cover;
+}
+
+.heading{
+    height: 172px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .8rem;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    height: 48px;
+    width: 113px;
+}

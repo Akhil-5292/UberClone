@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.wrapper{
+    width: 526.8px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid; */
+    padding: 48px;
+    background-color: white;
+}
+
+h1{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 64px;
+}
+
+.para{
+    width: 430.8px;
+    height: 48px;
+}
+
+.btn{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 48px;
+    width: 145px;
+
+}
+.btn2{
+    background-color: #EEEEEE;
+    color: black;
+    border-radius: 10px;
+    height: 48px;
+    width: 145px;
+
+}
+
+.heading{
+    /* border: 1px solid; */
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 459px;
+    height: 526.8px;
+}
+
